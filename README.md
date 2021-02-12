@@ -1,3 +1,3 @@
-# Stephen Hawking tribute page developed using HTML5 + CSS3
+# Stephen Hawking tribute page
 
-GitPage: https://xfilipe.github.io/stephen-hawking-tribute-page/
+Vercel Page: https://stephen-hawking-tribute-page.vercel.app/
